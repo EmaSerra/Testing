@@ -35,7 +35,7 @@
 
 	<section class="text-blocks cols-3 clearfix">
 		<div>
-			<h2>Heading</h2>
+			<h2>TESTING </h2>
 			<p>Lorem Ipsum </p>
 			<p>Lorem Ipsum </p>
 		</div>
@@ -79,7 +79,7 @@
 </div>
 
 
-	
+
 
 </body>
 </html>
