@@ -1,0 +1,107 @@
+body{
+    background-image: url("../images/mybackground.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+body{
+        font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+}
+h2 {
+	font-size: 20px;
+	font-weight: normal;
+}
+.container{
+	width: 100%;
+}
+/* S:Logo */
+.logo {
+	width: 100%;
+	padding: 6px 0 20px 0;
+	text-align: center;
+	margin-top: 20px;
+}
+/* E:Logo */
+
+/* S:Navigation */
+nav {
+	position: relative;
+	z-index: 3000;
+	width: 100%;
+	padding: 20px 0;
+	text-align: center;
+}
+nav ul li{
+	display: inline-block;
+	padding: 0 40px;
+}
+/* E:Navigation */
+
+/* S:Copyright */
+.copyright {
+	max-width: 1290px;
+	width: 100%;
+	margin: 0 auto;
+	padding: 20px 0;
+	margin-bottom: 10px;
+}
+.copyright p{
+	margin: 0;
+}
+/* E:Copyright */
+
+/* S:Main Content */
+.main-content {
+	width: 990px;
+	max-width: 1290px;
+	margin: 0 auto;
+}
+/* E:Main Content */
+
+/* S:Text Blocks */
+.text-blocks div h2{
+	text-transform: uppercase;
+}
+/* E:Text Blocks */
+
+/* S:Text Blocks 1 Column */
+.text-blocks.cols-1 div {
+        background-color: #ffffff;
+	float: left;
+	width: 100%;
+	margin-bottom: 30px;
+}
+/* E:Text Blocks 1 Column */
+
+/* S:Text Blocks 3 Column */
+.text-blocks.cols-3 div{
+        background-color: #ffffff;
+	float: left;
+	width: 310px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.text-blocks.cols-3 div:nth-child(3n+3) {
+	margin-right: 0;
+}
+.text-blocks.cols-3 div img {
+	width: 100%
+}
+/* E:Text Blocks 3 Column */
+
+/* S:Image Blocks 2 Column */
+.image-blocks.cols-2 div {
+	float: left;
+	width: 480px;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.image-blocks.cols-2 div:nth-child(2n+2){
+	margin-right: 0;
+}
+.image-blocks.cols-2 div img {
+	width: 100%;
+}
+/* E:Image Blocks  2Column */
+
