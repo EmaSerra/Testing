@@ -18,7 +18,7 @@
 		<ul>
 			<li><a href="#"	title="Home">Home </a></li>
 			<li><a href="#"	title="About">About </a></li>
-			<li><a href="#"	title="Contact">Contact </a></li>
+			<li><a href="#"	title="ANDIAMOOOOOOOOO">Contact </a></li>
 		</ul>
 	</nav>
 
